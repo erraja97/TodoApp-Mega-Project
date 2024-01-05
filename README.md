@@ -1,8 +1,49 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Todo App – a simple and intuitive task management application.
 
-Currently, two official plugins are available:
+## Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hello! This is my Todo App, designed to help you manage your tasks efficiently and stay organized. The application is built using React, Appwrite, and Tailwind CSS.
+
+## Key Features
+
+- **Effortless Todo Management:** Easily add, edit, and delete your todos.
+- **Category Organization:** Categorize your todos for better organization.
+- **Table View:** View your todos in a convenient table format.
+- **Mark Todos as Completed:** Keep track of your completed tasks.
+
+## Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Appwrite
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies with `npm install`.
+3. Run the app with `npm start`.
+
+## Usage
+
+Visit the [Instruction Page](#link-to-instruction-page) for detailed usage guidelines.
+
+## Instruction Page
+
+For detailed instructions on how to use the Todo App effectively, visit the [Instruction Page](#link-to-instruction-page).
+
+## Contributions
+
+Contributions are welcome! If you have any feedback or suggestions, feel free to [open an issue](#link-to-issues) or submit a pull request.
+
+## Future Additions
+
+This app is an ongoing project, and I plan to introduce more features to enhance your todo management experience.
+
+## Acknowledgments
+
+Thank you for using the Todo App! Your support and feedback are highly appreciated.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
