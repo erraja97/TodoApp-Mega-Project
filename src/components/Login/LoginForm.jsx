@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Container from "../container/container";
+import Container from "../container/Container";
 import authService from "../../appwrite/auth";
 import { useDispatch } from "react-redux";
 import { login as authLoginSlice } from "../../store/authSlice";

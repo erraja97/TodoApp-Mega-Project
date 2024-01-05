@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../container/container";
+import Container from "../container/Container";
 
 function Footer() {
   return (

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Container from "../container/container";
+import Container from "../container/Container";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import authService from "../../appwrite/auth";

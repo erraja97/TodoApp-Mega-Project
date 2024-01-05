@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../container/container";
+import Container from "../container/Container";
 import { useNavigate, Link, NavLink } from "react-router-dom";
 import { useSelector } from "react-redux";
 import LogoutBtn from "../Button/LogoutBtn";
