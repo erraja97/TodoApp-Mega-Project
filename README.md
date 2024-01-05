@@ -26,11 +26,15 @@ Hello! This is my Todo App, designed to help you manage your tasks efficiently a
 
 ## Usage
 
-Visit the [Instruction Page](#link-to-instruction-page) for detailed usage guidelines.
+Visit the [Instruction Page](https://todo-edcret.netlify.app/instructions) for detailed usage guidelines.
 
 ## Instruction Page
 
-For detailed instructions on how to use the Todo App effectively, visit the [Instruction Page](#link-to-instruction-page).
+For detailed instructions on how to use the Todo App effectively, visit the [Instruction Page](https://todo-edcret.netlify.app/instructions).
+
+## Deployed Project
+
+Access the live version of the Todo App on [Netlify](https://todo-edcret.netlify.app/).
 
 ## Contributions
 
