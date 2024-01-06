@@ -38,7 +38,7 @@ function TodoForm({ onComponentChange }) {
     };
   
     fetchTodosByCategory();
-  }, [user]); // Dependency on user to run the effect when the user changes
+  }, [user, category, customCategory]); // Dependency on user to run the effect when the user changes
   
 
   const handleCreateTodo = async () => {
